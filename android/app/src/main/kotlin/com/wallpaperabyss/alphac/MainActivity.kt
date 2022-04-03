@@ -1,4 +1,4 @@
-package com.example.alphac
+package com.wallpaperabyss.alphac
 
 import io.flutter.embedding.android.FlutterActivity
 

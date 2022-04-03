@@ -47,6 +47,8 @@ dependencies:
   open_file: ^3.2.1
   flutter_tags: ^0.4.9+1
   url_launcher: ^6.0.20  
+  change_app_package_name: ^1.0.0
+
   # flutter_native_splash: ^2.1.2+1
 
 dev_dependencies:
