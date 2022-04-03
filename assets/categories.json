@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "categories": [
+    {
+      "name": "Abstract",
+      "id": 1,
+      "count": 19554,
+      "url": "https://wall.alphacoders.com/by_category.php?id=1&name=Abstract+Wallpapers"
+    },
+    {
+      "name": "Animal",
+      "id": 2,
+      "count": 60452,
+      "url": "https://wall.alphacoders.com/by_category.php?id=2&name=Animal+Wallpapers"
+    },
+    {
+      "name": "Anime",
+      "id": 3,
+      "count": 196389,
+      "url": "https://wall.alphacoders.com/by_category.php?id=3&name=Anime+Wallpapers"
+    },
+    {
+      "name": "Artistic",
+      "id": 4,
+      "count": 18665,
+      "url": "https://wall.alphacoders.com/by_category.php?id=4&name=Artistic+Wallpapers"
+    },
+    {
+      "name": "Celebrity",
+      "id": 7,
+      "count": 31531,
+      "url": "https://wall.alphacoders.com/by_category.php?id=7&name=Celebrity+Wallpapers"
+    },
+    {
+      "name": "Comics",
+      "id": 8,
+      "count": 23539,
+      "url": "https://wall.alphacoders.com/by_category.php?id=8&name=Comics+Wallpapers"
+    },
+    {
+      "name": "Dark",
+      "id": 9,
+      "count": 5791,
+      "url": "https://wall.alphacoders.com/by_category.php?id=9&name=Dark+Wallpapers"
+    },
+    {
+      "name": "Earth",
+      "id": 10,
+      "count": 66200,
+      "url": "https://wall.alphacoders.com/by_category.php?id=10&name=Earth+Wallpapers"
+    },
+    {
+      "name": "Fantasy",
+      "id": 11,
+      "count": 23283,
+      "url": "https://wall.alphacoders.com/by_category.php?id=11&name=Fantasy+Wallpapers"
+    },
+    {
+      "name": "Food",
+      "id": 12,
+      "count": 20163,
+      "url": "https://wall.alphacoders.com/by_category.php?id=12&name=Food+Wallpapers"
+    },
+    {
+      "name": "Game",
+      "id": 14,
+      "count": 1480,
+      "url": "https://wall.alphacoders.com/by_category.php?id=14&name=Game+Wallpapers"
+    },
+    {
+      "name": "Holiday",
+      "id": 15,
+      "count": 9348,
+      "url": "https://wall.alphacoders.com/by_category.php?id=15&name=Holiday+Wallpapers"
+    },
+    {
+      "name": "Humor",
+      "id": 13,
+      "count": 2172,
+      "url": "https://wall.alphacoders.com/by_category.php?id=13&name=Humor+Wallpapers"
+    },
+    {
+      "name": "Man Made",
+      "id": 16,
+      "count": 35650,
+      "url": "https://wall.alphacoders.com/by_category.php?id=16&name=Man+Made+Wallpapers"
+    },
+    {
+      "name": "Men",
+      "id": 17,
+      "count": 608,
+      "url": "https://wall.alphacoders.com/by_category.php?id=17&name=Men+Wallpapers"
+    },
+    {
+      "name": "Military",
+      "id": 18,
+      "count": 10482,
+      "url": "https://wall.alphacoders.com/by_category.php?id=18&name=Military+Wallpapers"
+    },
+    {
+      "name": "Misc",
+      "id": 19,
+      "count": 3957,
+      "url": "https://wall.alphacoders.com/by_category.php?id=19&name=Misc+Wallpapers"
+    },
+    {
+      "name": "Movie",
+      "id": 20,
+      "count": 51503,
+      "url": "https://wall.alphacoders.com/by_category.php?id=20&name=Movie+Wallpapers"
+    },
+    {
+      "name": "Music",
+      "id": 22,
+      "count": 25061,
+      "url": "https://wall.alphacoders.com/by_category.php?id=22&name=Music+Wallpapers"
+    },
+    {
+      "name": "Photography",
+      "id": 24,
+      "count": 18685,
+      "url": "https://wall.alphacoders.com/by_category.php?id=24&name=Photography+Wallpapers"
+    },
+    {
+      "name": "Products",
+      "id": 25,
+      "count": 1062,
+      "url": "https://wall.alphacoders.com/by_category.php?id=25&name=Products+Wallpapers"
+    },
+    {
+      "name": "Religious",
+      "id": 26,
+      "count": 3482,
+      "url": "https://wall.alphacoders.com/by_category.php?id=26&name=Religious+Wallpapers"
+    },
+    {
+      "name": "Sci Fi",
+      "id": 27,
+      "count": 18766,
+      "url": "https://wall.alphacoders.com/by_category.php?id=27&name=Sci+Fi+Wallpapers"
+    },
+    {
+      "name": "Sports",
+      "id": 28,
+      "count": 20256,
+      "url": "https://wall.alphacoders.com/by_category.php?id=28&name=Sports+Wallpapers"
+    },
+    {
+      "name": "Technology",
+      "id": 30,
+      "count": 4919,
+      "url": "https://wall.alphacoders.com/by_category.php?id=30&name=Technology+Wallpapers"
+    },
+    {
+      "name": "TV Show",
+      "id": 29,
+      "count": 31009,
+      "url": "https://wall.alphacoders.com/by_category.php?id=29&name=TV+Show+Wallpapers"
+    },
+    {
+      "name": "Vehicles",
+      "id": 31,
+      "count": 75110,
+      "url": "https://wall.alphacoders.com/by_category.php?id=31&name=Vehicles+Wallpapers"
+    },
+    {
+      "name": "Video Game",
+      "id": 32,
+      "count": 114904,
+      "url": "https://wall.alphacoders.com/by_category.php?id=32&name=Video+Game+Wallpapers"
+    },
+    {
+      "name": "Weapons",
+      "id": 34,
+      "count": 1895,
+      "url": "https://wall.alphacoders.com/by_category.php?id=34&name=Weapons+Wallpapers"
+    },
+    {
+      "name": "Women",
+      "id": 33,
+      "count": 49094,
+      "url": "https://wall.alphacoders.com/by_category.php?id=33&name=Women+Wallpapers"
+    }
+  ]
+}
