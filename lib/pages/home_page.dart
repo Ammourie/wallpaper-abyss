@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
         color: Colors.black,
         elevation: 0,
         items: const [
-          TabItem(icon: Icons.download, title: "Hownloads"),
+          TabItem(icon: Icons.download, title: "Downloads"),
           TabItem(icon: Icons.home, title: "Home"),
           TabItem(icon: Icons.list_alt, title: "Categories"),
         ],
