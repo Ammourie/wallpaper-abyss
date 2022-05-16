@@ -19,7 +19,7 @@ A simple flutter application to download images from [Wallpaper Abyss](https://w
 <img src="https://user-images.githubusercontent.com/59035839/168680119-ff0c568f-92fa-4773-bb00-1749e97274f1.png" width="200">
 <img src="https://user-images.githubusercontent.com/59035839/168680165-8a419f2e-9e42-47e9-b881-5212b39d3dc0.png" width="200">
 <img src="https://user-images.githubusercontent.com/59035839/168680206-49617610-3759-4c19-8623-06ae16598c6f.png" width="200">
-<img src="https://user-images.githubusercontent.com/59035839/168680264-2186c8ca-3a24-4adb-8870-f21f5d92bc64.png" width="200">
+<img src="https://user-images.githubusercontent.com/59035839/168681513-49388b2c-5384-4b35-8869-4491d82dcec5.png" width="200">
 <img src="https://user-images.githubusercontent.com/59035839/168680296-59d44e5d-8047-471b-b003-81e231d6c1a4.png" width="200">
 </div>
 
