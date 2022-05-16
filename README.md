@@ -1,5 +1,5 @@
 # alphac
 
-A simple flutter application to download images from wall.alphacoders.com
+A simple flutter application to download images from <a src="wall.alphacoders.com">Wallpaper Abyss</a>
 
 
