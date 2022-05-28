@@ -22,5 +22,7 @@ A simple flutter application to download images from [Wallpaper Abyss](https://w
 <img src="https://user-images.githubusercontent.com/59035839/168681513-49388b2c-5384-4b35-8869-4491d82dcec5.png" width="200">
 <img src="https://user-images.githubusercontent.com/59035839/168680296-59d44e5d-8047-471b-b003-81e231d6c1a4.png" width="200">
 </div>
+
 ## 💾 Downloads
+
 [![Github All Releases](https://img.shields.io/github/downloads/Ammourie/wallpaper-abyss/total.svg?color=4DC71F&label=Downloads&logo="github")](https://github.com/Ammourie/wallpaper-abyss/releases/latest)
